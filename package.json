@@ -15,18 +15,18 @@
     "url": "https://github.com/codedx/doc-md"
   },
   "dependencies": {
-    "bootstrap": "^3.4.1",
-    "cheerio": "*",
-    "grunt": ">=0.4.0",
-    "grunt-contrib-clean": "^0.6.0",
-    "grunt-contrib-concat": "^0.5.0",
-    "grunt-contrib-copy": "^0.7.0",
-    "jquery": "^3.4.1",
-    "js-yaml": "*",
-    "marked": "^0.7.0",
-    "pagedown": "*",
-    "pug": "^2.0.4",
-    "slang": "^0.3.0"
+    "bootstrap": "3.4.1",
+    "cheerio": "0.22.0",
+    "grunt": "0.4.0",
+    "grunt-contrib-clean": "0.6.0",
+    "grunt-contrib-concat": "0.5.0",
+    "grunt-contrib-copy": "0.7.0",
+    "jquery": "3.4.1",
+    "js-yaml": "3.13.1",
+    "marked": "0.7.0",
+    "pagedown": "1.1.0",
+    "pug": "2.0.4",
+    "slang": "0.3.0"
   },
   "bugs": {
     "url": "https://github.com/codedx/doc-md/issues"
